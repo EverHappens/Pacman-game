@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Pacman"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ever/CLionProjects/Pacman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ever/CLionProjects/Pacman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ever/CLionProjects/Pacman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pacman">
+				<Option output="/Users/ever/CLionProjects/Pacman/cmake-build-debug/Pacman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ever/CLionProjects/Pacman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pacman"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Pacman/fast">
+				<Option output="/Users/ever/CLionProjects/Pacman/cmake-build-debug/Pacman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ever/CLionProjects/Pacman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Pacman/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ever/CLionProjects/Pacman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/cell.h">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/game.cpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/game.h">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/global.hpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/main.cpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/mapCollision.cpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/mapCollision.h">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/pacman.cpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/pacman.h">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/player.cpp">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/player.h">
+			<Option target="Pacman"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/ever/CLionProjects/Pacman/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
